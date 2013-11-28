@@ -1662,4 +1662,11 @@
     <string name="reboot_progress">Reiniciando\u2026</string>
     <string name="reboot_confirm" product="tablet">Tu tableta se reiniciará.</string>
     <string name="reboot_confirm" product="default">Tu teléfono se reiniciará.</string>
+    <string name="power_dialog" product="tablet">Opciones del tablet</string>
+    <string name="power_dialog" product="default">Opciones del teléfono</string>
+    <string name="silent_mode">Modo silencio</string>
+    <string name="turn_on_radio">Activar conexión inalámbrica</string>
+    <string name="turn_off_radio">Desactivar función inalámbrica</string>
+    <string name="screen_lock">Bloqueo de pantalla</string>
+    <string name="power_off">Apagar</string>
 </resources>
