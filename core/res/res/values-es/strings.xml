@@ -1664,4 +1664,32 @@
   </plurals>
     <string name="restr_pin_try_later" msgid="973144472490532377">"Volver a intentar más tarde"</string>
     <string name="immersive_mode_confirmation" msgid="7227416894979047467">"Desliza el dedo hacia abajo para salir de la pantalla completa"</string>
+    
+        <!-- Start of Extended Power Menu Strings -->
+    <!-- Button to reboot the phone, within the Phone Options dialog -->
+    
+    <string name="reboot_system" product="default">Reiniciar teléfono</string>
+    <!-- label for item that screenshots in phone options dialog -->
+    <string name="global_action_screenshot">Captura de pantalla</string>
+    <!-- Button to reboot the phone, within the Reboot Options dialog -->
+    <string name="reboot_reboot">Reiniciar</string>
+    <!-- Button to reboot the phone into recovery, within the Reboot Options dialog -->
+    <string name="reboot_recovery">Modo Recovery</string>
+    <!-- Button to reboot the phone into bootloader, within the Reboot Options dialog -->
+    <string name="reboot_bootloader">Modo Bootloader</string>
+    <!-- Button to reboot the phone into bootmenu, within the Reboot Options dialog -->
+    <string name="reboot_bootmenu">Modo Bootmenu</string>
+    <!-- Button to reboot the phone into fastboot, within the Reboot Options dialog -->
+    <string name="reboot_fastboot">Modo Fastboot</string>
+    <!-- Button to reboot the phone into download, within the Reboot Options dialog -->
+    <string name="reboot_download">Modo Download</string>
+    <!-- Reboot Progress Dialog. This is shown if the user chooses to reboot the phone. -->
+    <string name="reboot_progress">Reiniciando\u2026</string>
+    <!-- Reboot Confirmation Dialog.  When the user chooses to reboot the phone, there will be a confirmation dialog.  This is the message. -->
+    
+    <string name="reboot_confirm" product="default">El teléfono se reiniciará.</string>
+    <!-- End of Extended Power Menu Strings -->
+        <!-- label for item that reboots the phone in phone options dialog -->
+    <string name="global_action_reboot">Reiniciar</string>
+    
 </resources>
